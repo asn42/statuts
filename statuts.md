@@ -96,3 +96,26 @@ Tout scrutin tant dans son organisation (convocations, etc.) que dans son dérou
 Dans les cas où une consultation par mode électronique est décidée, il est expressément convenu que les participants concernés, membres du Bureau, membres de l’Assemblée Générale ou de tout autre organe de l’Association, devront avoir été préalablement informés du déroulement des scrutins et qu’un espace de discussion leur aura été réservé durant un temps suffisant.
 Il sera en toute hypothèse établi un procès-verbal rendant compte des décisions prises dans le cadre de la consultation.
 En cas de consultation par un autre moyen (réunion physique, accord unanime) les personnes concernées seront convoquées et informées par tous moyens, y compris électroniques.
+
+## Composition et attribution du Bureau ##
+
+Le Bureau assure la gestion courante de l’Association. Il se réunit aussi souvent que l’intérêt de l’Association l’exige.
+Les membres du Bureau sont désignés par l’Assemblée Générale pour une durée de un an. Ils sont rééligibles.
+
+Le Bureau est composé de trois membres au moins (un Président, un Secrétaire général, un Trésorier).
+Un Vice-Président ou deux Vice-Présidents peuvent également être élus.
+Au besoin, des adjoints peuvent assister le Secrétaire général et le Trésorier.
+Le Président, Vice-Président et le Secrétaire désignés assureront lors des assemblées respectivement les fonctions de Président de séance, Vice-Président de séance et Secrétaire de l’Assemblée Générale.
+
+Les fonctions de membre du Bureau ne sont pas rémunérées. Des remboursements de frais sont seuls possibles, sur production de justificatifs de dépenses engagées dans l’intérêt de l’Association et approuvés par le Bureau.
+
+Le Président représente seul l’Association dans tous les actes de la vie civile et est investi de tous pouvoirs à cet effet. Le Président peut déléguer partiellement ses pouvoirs sous sa responsabilité à un ou plusieurs mandataires de son choix, membres de l’Association.
+Le Vice-Président ou les Vice-Présidents, s’il en a été désigné, assiste(nt) le Président dans l’exercice de ses fonctions et le remplace(nt) en cas d’empêchement.
+Le Secrétaire établit ou fait établir les procès-verbaux des réunions du Bureau et de l’Assemblée Générale. Il est tenu un registre légal des procès-verbaux.
+Le Trésorier établit ou fait établir sous sa responsabilité les comptes de l’Association. Il est chargé de l’appel des cotisations. Il procède, sous le contrôle du Président au paiement et à la réception de toutes sommes.
+Le Trésorier établit un rapport sur la situation financière de l’Association et le présente à l’Assemblée Générale annuelle.
+
+Un membre du Bureau peut décider de démissionner, à tout moment, en adressant sa démission au Bureau.
+Un membre du Bureau peut être révoqué par l’Assemblée Générale.
+Outre le cas de démission et de révocation, les fonctions des membres du Bureau cessent immédiatement par décès, incapacité, perte des droits civiques, perte de la qualité d’adhérent.
+
