@@ -127,3 +127,14 @@ Le Bureau est investi des pouvoirs les plus étendus pour administrer l’Associ
 Il prend notamment toutes décisions relatives à la gestion et à la conservation du patrimoine de l’Association et particulièrement, celles relatives à l’emploi des fonds, à la prise à bail des locaux nécessaires à la réalisation de l’objet de l’Association.
 Il autorise les accords et contrats à intervenir entre l’Association et des personnes physiques ou morales, permettant à celles-ci de bénéficier des services de l’Association, en échange ou non de contreparties.
 Le Bureau définit les principales orientations de l’Association. Il arrête le budget et les comptes annuels de l’Association.
+
+## Réunion et délibération du Bureau ##
+
+Le Bureau tient une session au moins une fois par an, et chaque fois que l’intérêt de l’Association le requiert. Le Bureau est convoqué par le Président ou par le Secrétaire Général.
+Le lieu de la réunion du Bureau est fixé par l’auteur de la convocation.
+Les décisions sont prises aux deux tiers des voix des membres du Bureau présents ou représentés. En cas de partage, la voix du Président est prépondérante.
+Seul un membre du Bureau peut représenter un autre membre du Bureau.
+Le Bureau ne délibère valablement que si au moins la moitié de ses membres sont présents ou représentés.
+Tout membre du Bureau qui, sans excuse, n’aura pas participé à trois sessions consécutives, pourra être considéré comme démissionnaire, sur décision du Bureau.
+L’organisation et le déroulement de chaque session peuvent faire appel en tout ou partie aux moyens électroniques, notamment en ce qui concerne l’annonce de la session, les délibérations, la prise de décision, la constatation et la communication des décisions prises.
+Il est rédigé un procès-verbal de chacune des séances du Bureau. Les procès-verbaux sont signés par le Président et Secrétaire de séance.
