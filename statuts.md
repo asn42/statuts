@@ -226,3 +226,8 @@ Les utilisateurs des services proposés par l’Association s’engagent à ne p
 
 Il sera procédé aux formalités légales requises, dans les délais requis par les textes légaux et réglementaires en vigueur.
 Tout changement qui surviendra dans l’administration de l’Association fera l’objet de formalités dans les délais requis par les textes légaux et réglementaires en vigueur.
+
+## Membres fondateurs, dispositions transitoires ##
+
+Les cinq membres fondateurs sont chargés de désigner les dirigeants de l’association pour le premier exercice, jusqu’à la tenue de la première assemblée générale.
+Fait à Paris le 5 avril 2017, établi en six exemplaires originaux par les membres fondateurs.
