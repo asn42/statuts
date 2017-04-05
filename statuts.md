@@ -160,3 +160,44 @@ L’organisation et le déroulement de chaque Assemblée Générale peuvent fair
 Majorités :
 Les décisions de modification des statuts et/ou de dissolution de l’Association et/ou de révocation d’un membre du Bureau seront prises à la majorité des 2/3 des voix des membres présents ou représentés.
 Toutes les autres décisions des assemblées sont prises à la majorité simple des voix, des membres présents ou représentés.
+
+## Services et activités ##
+
+La liste des activités et des services existants et disponibles est tenue à jour sur le site de l’Association, et est communiquée sur simple demande.
+
+Lorsqu’un ou plusieurs adhérents souhaitent la mise en place d’un nouveau service ou d’une nouvelle activité, ils en font la demande au Bureau qui pourra l’avaliser notamment en fonction :
+
+- du coût engendré ;
+- des contraintes techniques ;
+- des moyens humains disponibles dans l’Association.
+
+Pour ces mêmes motifs, le Bureau peut être amené à supprimer un service existant.
+
+Un utilisateur dont l’usage immodéré et visiblement hors norme entraîne un coût inhabituel pour l’Association pourra être amené à en assumer les conséquences financières.
+Sauf autorisation écrite et préalable du Bureau, la revente des services de l’Association est strictement interdite
+
+Il incombe à l’adhérent d’avoir à sa disposition le matériel informatique nécessaire à son utilisation des services de l’Association.
+L’adhérent est responsable de l’installation et de la configuration des outils nécessaires pour utiliser les services de l’Association.
+
+Les membres de l’Association pourront si nécessaire conseiller l’adhérent quant au choix de ces équipements, de leur installation et de leur configuration, mais sans aucune obligation, ni de résultat ni de moyen.
+
+L’Association s’efforce de traiter les problèmes techniques avec diligence et efficacité. Toutefois, l’Association ne présente à ses adhérents :
+
+- ni un délai d’intervention contractuel ;
+- ni une garantie de résolution d’incident ;
+- ni aucune obligation de résultat ;
+- ni aucune obligation de moyen.
+
+L’adhérent, disposant des mêmes droits et devoirs vis-à-vis de l’Association que les autres, est co-responsable de son fonctionnement. En tant que tel, il est habilité et encouragé, en fonction de ses moyens et de ses compétences, à participer à son fonctionnement et à celui de ses organes et/ou services. En conséquence l’adhérent n’est pas fondé à se comporter comme un simple utilisateur ou comme un client, ni à exiger des autres adhérents une diligence dont il n’aura pas lui-même fait preuve. C’est dans ce contexte que l’Association s’organise afin d’apporter aux adhérents des services disponibles et de qualité.
+
+L’Association réfute par ailleurs toute responsabilité vis-à-vis d’outils matériels ou logiciels installés/utilisés par l’adhérent pour faire usage des services fournis par l’Association.
+
+Au titre d’une mesure exceptionnelle, l’Association se réserve le droit de suspendre l’accès d’un adhérent à des services, sans l’avertir, à condition que la sauvegarde des services de l’Association l’exige. En cas de force majeure, l’Association se réserve également le droit de suspendre le compte d’un adhérent, s’il en va de la sauvegarde des services de l’Association.
+Tout transfert d’informations ou de fichiers par l’utilisation des services mis à disposition par l’Association reste sous la responsabilité de l’adhérent. L’Association n’est en aucun cas responsable de la diffusion des données et des informations réalisées par un adhérent, et ne pourra être déclarée comme telle dans un quelconque litige impliquant celui-ci. L’adhérent garantit l’Association contre tout recours de tiers suite à ses agissements et aux usages qu’il aura fait des services de l’Association.
+L’adhérent est seul responsable de ses écrits et de ses actes. Il s’engage à utiliser les services et équipements de l’Association dans le respect des lois en vigueur en France et des règles d’éthique en usage sur Internet. Un manquement manifeste et délibéré aux règles d’éthique usuelles d’Internet de la part d’un adhérent (par exemple, envois de courrier électronique non sollicités fréquents et/ou nombreux) entraîne ipso facto la suspension de la fourniture du service concerné à l’adhérent et éventuellement l’initiation d’une procédure de radiation par le Bureau de l’Association.
+Tout acte de malveillance constaté à l’encontre des services de l’Association pourra faire l’objet d’un dépôt de plainte. S’il est avéré qu’un adhérent en est l’auteur, l’Association procédera sans délai à la suspension des services de cet adhérent et à sa radiation.
+L’Association se réserve en outre le droit d’engager des poursuites pour obtenir réparation des dommages causés à elle-même ou à des tiers.
+Différents codes d’accès (identifiants et/ou mots de passe pour différents protocoles d’accès) sont fournis par l’Association à l’adhérent afin de lui permettre d’utiliser les services de l’Association.
+L’adhérent s’engage par la demande d’adhésion, à utiliser ces codes, ou tout autre code fourni officiellement par l’Association, pour son propre usage uniquement. Il s’engage également à ne diffuser aucun de ces codes, ni utiliser le code d’un autre adhérent.
+
+Les services peuvent, dans le cadre d’accords ou de contrats autorisés par le Bureau, être fournis à des personnes physiques ou morales n’étant pas membres de l’Association.
