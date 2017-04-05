@@ -216,3 +216,8 @@ Les décisions de modification des statuts sont prises à la majorité des 2/3 d
 ## Dissolution ##
 
 En cas de dissolution prononcée par les deux-tiers au moins des membres présents ou représentés, à la session de l’Assemblée Générale dûment convoquée, un ou plusieurs liquidateurs sont nommés par celle-ci et l’actif, s’il y a lieu, est dévolu conformément aux règles qui seront décidées par l’Assemblée Générale des membres (conformément à l’article 9 de la loi du 1er juillet 1901 et au décret du 16 août 1901).
+
+## Lois et règlements ##
+
+Toute personne participant à la vie ou aux activités de l’Association s’engage à respecter les statuts de l’Association, la lois française et le règlement de 42 dans le cadre de cette participation. Cela vaut également lors de participation de l’Association à des activités ou évènements extérieurs.
+Les utilisateurs des services proposés par l’Association s’engagent à ne pas les utiliser de manière contraires aux statuts et règlement intérieur de l’Association, à la législation française ou au règlement de 42.
