@@ -79,3 +79,13 @@ rtains de ses membres ou à porter atteinte aux objectifs poursuivis par l’Ass
 - le non respect des statuts, du règlement intérieur de l’Association ou de la lois française ;
 - l’atteinte volontaire aux services de l’association ;
 - de manière plus générale pour tout motif jugé grave par un nombre suffisant de membres du Bureau ou une Assemblée Générale.
+
+## Ressources ##
+
+Les ressources de l’Association comprennent :
+
+- Le montant des cotisations décidés par le Bureau,
+- Tout événement organisé par l’Association, conforme à son objet social et dont le financement est approuvé par le Bureau, par les membres de l’Association ou certains d’entre eux ;
+- Toutes sommes perçues en contrepartie des prestations fournies par l’Association ;
+- Les subventions de l’État, des régions, des départements, des communes et des établissements publics, d’organismes internationaux, de fondations, des subventions d’entreprises publiques ou privées ou personnes privées ;
+- Toute autre ressource qui ne lui sont pas interdites par les lois et règlements en vigueur.
