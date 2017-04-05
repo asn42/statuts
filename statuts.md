@@ -221,3 +221,8 @@ En cas de dissolution prononcée par les deux-tiers au moins des membres présen
 
 Toute personne participant à la vie ou aux activités de l’Association s’engage à respecter les statuts de l’Association, la lois française et le règlement de 42 dans le cadre de cette participation. Cela vaut également lors de participation de l’Association à des activités ou évènements extérieurs.
 Les utilisateurs des services proposés par l’Association s’engagent à ne pas les utiliser de manière contraires aux statuts et règlement intérieur de l’Association, à la législation française ou au règlement de 42.
+
+## Formalités ##
+
+Il sera procédé aux formalités légales requises, dans les délais requis par les textes légaux et réglementaires en vigueur.
+Tout changement qui surviendra dans l’administration de l’Association fera l’objet de formalités dans les délais requis par les textes légaux et réglementaires en vigueur.
