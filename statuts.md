@@ -89,3 +89,10 @@ Les ressources de l’Association comprennent :
 - Toutes sommes perçues en contrepartie des prestations fournies par l’Association ;
 - Les subventions de l’État, des régions, des départements, des communes et des établissements publics, d’organismes internationaux, de fondations, des subventions d’entreprises publiques ou privées ou personnes privées ;
 - Toute autre ressource qui ne lui sont pas interdites par les lois et règlements en vigueur.
+
+## Consultations ##
+
+Tout scrutin tant dans son organisation (convocations, etc.) que dans son déroulement (discussions, votes, etc.), quel qu’en soit l’objet, quel qu’en soit l’organe, peut, au choix du Président être organisé par mode électronique ou non dans la mesure où la loi le permet.
+Dans les cas où une consultation par mode électronique est décidée, il est expressément convenu que les participants concernés, membres du Bureau, membres de l’Assemblée Générale ou de tout autre organe de l’Association, devront avoir été préalablement informés du déroulement des scrutins et qu’un espace de discussion leur aura été réservé durant un temps suffisant.
+Il sera en toute hypothèse établi un procès-verbal rendant compte des décisions prises dans le cadre de la consultation.
+En cas de consultation par un autre moyen (réunion physique, accord unanime) les personnes concernées seront convoquées et informées par tous moyens, y compris électroniques.
