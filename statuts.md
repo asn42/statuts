@@ -22,3 +22,13 @@ L’Association a pour objet :
 - de susciter, préparer, participer et organiser toutes réunions, conférences, ateliers et groupes de travail, formels ou informels ;
 - d’aider au développement et à l’utilisation de nouvelles technologies ainsi que la mise en place, la gestion d’applications contribuant à la réalisation des objectifs listés ;
 - de représenter ses membres dans ses relations : avec d’autres associations ou groupements similaires ou complémentaires, des entreprises, les pouvoirs publics et les instances communautaires et internationales, et dans ce cadre, d’être habilitée à traiter au nom de ses membres ;
+
+## Siège Social ##
+
+Le siège social est situé:
+
+À l’école 42
+96, boulevard Bessières
+75017 Paris.
+
+Il peut être transféré à toute autre adresse, sur simple décision du Bureau ou de l’Assemblée Générale.
