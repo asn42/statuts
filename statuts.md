@@ -206,3 +206,9 @@ Les services peuvent, dans le cadre d’accords ou de contrats autorisés par le
 
 Un règlement intérieur peut être préparé par le Bureau et adopté par l’Assemblée Générale. Ce règlement éventuel est destiné à fixer les divers points non prévus par les statuts.
 Le règlement intérieur ne peut en aucune circonstance contredire les statuts de l’association.
+
+## Modification des statuts ##
+
+Les statuts peuvent être modifiés par l’Assemblée Générale sur proposition du Bureau.
+Les propositions de modifications sont inscrites à l’ordre du jour figurant sur la convocation à l’Assemblée Générale.
+Les décisions de modification des statuts sont prises à la majorité des 2/3 des voix des membres présents ou représentés.
