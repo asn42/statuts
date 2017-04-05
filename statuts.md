@@ -212,3 +212,7 @@ Le règlement intérieur ne peut en aucune circonstance contredire les statuts d
 Les statuts peuvent être modifiés par l’Assemblée Générale sur proposition du Bureau.
 Les propositions de modifications sont inscrites à l’ordre du jour figurant sur la convocation à l’Assemblée Générale.
 Les décisions de modification des statuts sont prises à la majorité des 2/3 des voix des membres présents ou représentés.
+
+## Dissolution ##
+
+En cas de dissolution prononcée par les deux-tiers au moins des membres présents ou représentés, à la session de l’Assemblée Générale dûment convoquée, un ou plusieurs liquidateurs sont nommés par celle-ci et l’actif, s’il y a lieu, est dévolu conformément aux règles qui seront décidées par l’Assemblée Générale des membres (conformément à l’article 9 de la loi du 1er juillet 1901 et au décret du 16 août 1901).
