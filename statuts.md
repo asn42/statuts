@@ -201,3 +201,8 @@ Différents codes d’accès (identifiants et/ou mots de passe pour différents 
 L’adhérent s’engage par la demande d’adhésion, à utiliser ces codes, ou tout autre code fourni officiellement par l’Association, pour son propre usage uniquement. Il s’engage également à ne diffuser aucun de ces codes, ni utiliser le code d’un autre adhérent.
 
 Les services peuvent, dans le cadre d’accords ou de contrats autorisés par le Bureau, être fournis à des personnes physiques ou morales n’étant pas membres de l’Association.
+
+## Règlement Intérieur ##
+
+Un règlement intérieur peut être préparé par le Bureau et adopté par l’Assemblée Générale. Ce règlement éventuel est destiné à fixer les divers points non prévus par les statuts.
+Le règlement intérieur ne peut en aucune circonstance contredire les statuts de l’association.
