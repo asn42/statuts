@@ -119,3 +119,11 @@ Un membre du Bureau peut décider de démissionner, à tout moment, en adressant
 Un membre du Bureau peut être révoqué par l’Assemblée Générale.
 Outre le cas de démission et de révocation, les fonctions des membres du Bureau cessent immédiatement par décès, incapacité, perte des droits civiques, perte de la qualité d’adhérent.
 
+## Pouvoirs du Président et du Bureau ##
+
+Le Président représente l’Association dans tous les actes de la vie civile et est investi de tout pouvoir à cet effet. Il a notamment qualité pour ester en justice au nom de l’Association.
+
+Le Bureau est investi des pouvoirs les plus étendus pour administrer l’Association dans les limites de son objet et sous réserves de pouvoirs de l’Assemblée Générale. Il autorise le Président à agir en justice.
+Il prend notamment toutes décisions relatives à la gestion et à la conservation du patrimoine de l’Association et particulièrement, celles relatives à l’emploi des fonds, à la prise à bail des locaux nécessaires à la réalisation de l’objet de l’Association.
+Il autorise les accords et contrats à intervenir entre l’Association et des personnes physiques ou morales, permettant à celles-ci de bénéficier des services de l’Association, en échange ou non de contreparties.
+Le Bureau définit les principales orientations de l’Association. Il arrête le budget et les comptes annuels de l’Association.
