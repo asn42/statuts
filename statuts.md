@@ -60,3 +60,22 @@ Le Bureau peut proposer une réduction ou une exemption de cotisation pour des m
 Sauf quand les conditions donnant droit au tarif préférentiel sont par nature définitives, l’adhérent devra présenter un justificatif régulièrement pour pouvoir continuer à bénéficier de ces conditions préférentielles.
 
 La participation aux activités de l’Association à des personnes, qui n’en sont pas membres, est possible, sur décision du Bureau.
+
+## Radiation des membres ##
+
+La qualité de membre de l’Association se perd par :
+
+- la démission, notifiée par un membre par courrier simple ou courrier électronique, au Président de l’Association, la perte de la qualité de membre intervenant alors à compter de la réception du courrier ;
+- l’exclusion prononcée par le Bureau pour défaut de paiement de la cotisation annuelle du membre ;
+- l’exclusion prononcée par le Bureau pour motif grave ou comportement contraire à l’intérêt de l’Association ; l’adhérent intéressé est préalablement convoqué devant le Bureau pour fournir ses explications ;
+- l’exclusion prononcée par le Bureau, en cas de perte de la qualification ou du statut de l’adhérent ayant motivé l’agrément par le Bureau; l’adhérent intéressé est préalablement convoqué devant le Bureau pour fournir ses explications ;
+- le placement sous sauvegarde de justice ou mise en tutelle ou curatelle d’un membre.
+
+Aucun remboursement des cotisations, ne sera effectué en cas de perte de la qualité de membre pour quelque titre que ce soit.
+Sont considérés comme des motifs graves pouvant entraîner l’exclusion d’un membre :
+
+- toute initiative directe ou indirecte d’un membre visant à diffamer l’Association ou
+rtains de ses membres ou à porter atteinte aux objectifs poursuivis par l’Association ;
+- le non respect des statuts, du règlement intérieur de l’Association ou de la lois française ;
+- l’atteinte volontaire aux services de l’association ;
+- de manière plus générale pour tout motif jugé grave par un nombre suffisant de membres du Bureau ou une Assemblée Générale.
