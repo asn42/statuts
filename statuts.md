@@ -75,7 +75,7 @@ Aucun remboursement des cotisations, ne sera effectué en cas de perte de la qua
 Sont considérés comme des motifs graves pouvant entraîner l’exclusion d’un membre :
 
 - toute initiative directe ou indirecte d’un membre visant à diffamer l’Association ou
-rtains de ses membres ou à porter atteinte aux objectifs poursuivis par l’Association ;
+certains de ses membres ou à porter atteinte aux objectifs poursuivis par l’Association ;
 - le non respect des statuts, du règlement intérieur de l’Association ou de la lois française ;
 - l’atteinte volontaire aux services de l’association ;
 - de manière plus générale pour tout motif jugé grave par un nombre suffisant de membres du Bureau ou une Assemblée Générale.
