@@ -105,7 +105,7 @@ Les membres du Bureau sont désignés par l’Assemblée Générale pour une dur
 Le Bureau est composé de trois membres au moins (un Président, un Secrétaire général, un Trésorier).
 Un Vice-Président ou deux Vice-Présidents peuvent également être élus.
 Au besoin, des adjoints peuvent assister le Secrétaire général et le Trésorier.
-Le Président, Vice-Président et le Secrétaire désignés assureront lors des assemblées respectivement les fonctions de Président de séance, Vice-Président de séance et Secrétaire de l’Assemblée Générale.
+Le Président et le Secrétaire désignés assureront lors des assemblées respectivement les fonctions de Président de séance et Secrétaire de l’Assemblée Générale.
 
 Les fonctions de membre du Bureau ne sont pas rémunérées. Des remboursements de frais sont seuls possibles, sur production de justificatifs de dépenses engagées dans l’intérêt de l’Association et approuvés par le Bureau.
 
