@@ -144,7 +144,7 @@ Il est rédigé un procès-verbal de chacune des séances du Bureau. Les procès
 Toutes les décisions excédant les pouvoirs du Bureau sont prises collégialement par les membres de l’Association.
 L’Assemblée Générale de l’Association se compose de tous les adhérents de l’Association à jour de leur cotisation.
 L’Assemblée Générale, tient session au moins une fois par an et sur convocation du Bureau.
-L’Assemblée Générale se réunira à chaque fois que le Bureau le jugera opportun ou que la loi l’exige.
+L’Assemblée Générale se réunira chaque fois que le Bureau le jugera opportun ou que la loi l’exige.
 L’Assemblée Générale se réunira notamment pour l’approbation des comptes de l’Association, la ratification des nominations par cooptation faites par le Bureau ou pour décider de la révocation de membres du Bureau.
 L’ordre du jour est réglé par le ou les auteurs de la convocation qui fixe également le lieu de la réunion.
 Tout membre adhérent peut demander l’inscription d’un point à l’ordre du jour, au plus tard dans les 72 heures précédant la réunion de l’assemblée.
