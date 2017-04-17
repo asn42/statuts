@@ -46,7 +46,7 @@ Pour devenir membre de l’Association, il faut :
 Toute demande d’agrément d’un nouveau membre devra être adressée au Bureau de l’Association, accompagnée d’un exposé écrit (sous forme physique ou informatique) des motifs de la demande d’adhésion du postulant.
 Le Bureau statue sur la demande d’adhésion et décide d’agréer ou non le postulant.
 Le refus d’admission n’a pas à être motivé.
-L’accession et le maintien de la qualité de membre est soumis au paiement d’une cotisation annuelle dont le montant est fixé annuellement par le Bureau et au respect des statuts et du règlement intérieur de l’Association, s’il existe.
+L’accession et le maintien de la qualité de membre sont soumis au paiement d’une cotisation annuelle dont le montant est fixé annuellement par le Bureau et au respect des statuts et du règlement intérieur de l’Association, s’il existe.
 
 Chaque membre devra régler sa cotisation annuelle au plus tard le 31 janvier de chaque année.
 Les cotisations seront réglées :
@@ -59,7 +59,7 @@ Les cotisations seront réglées :
 Le Bureau peut proposer une réduction ou une exemption de cotisation pour des membres dont les faibles moyens financiers présenteraient un obstacle à l’adhésion, sur présentation d’un justificatif. Pour bénéficier de ces conditions préférentielles, l’adhérent doit en faire la demande en présentant les justificatifs nécessaires auprès du Bureau, qui a toute latitude pour statuer.
 Sauf quand les conditions donnant droit au tarif préférentiel sont par nature définitives, l’adhérent devra présenter un justificatif régulièrement pour pouvoir continuer à bénéficier de ces conditions préférentielles.
 
-La participation aux activités de l’Association à des personnes, qui n’en sont pas membres, est possible, sur décision du Bureau.
+La participation aux activités de l’Association est possible pour des personnes qui ne sont pas membres, sur décision du Bureau.
 
 ## Radiation des membres ##
 
@@ -78,17 +78,17 @@ Sont considérés comme des motifs graves pouvant entraîner l’exclusion d’u
 certains de ses membres ou à porter atteinte aux objectifs poursuivis par l’Association ;
 - le non respect des statuts, du règlement intérieur de l’Association ou de la lois française ;
 - l’atteinte volontaire aux services de l’association ;
-- de manière plus générale pour tout motif jugé grave par un nombre suffisant de membres du Bureau ou une Assemblée Générale.
+- de manière plus générale, tout motif jugé grave par un nombre suffisant de membres du Bureau ou une Assemblée Générale.
 
 ## Ressources ##
 
 Les ressources de l’Association comprennent :
 
-- Le montant des cotisations décidés par le Bureau,
+- Le montant des cotisations décidé par le Bureau,
 - Tout événement organisé par l’Association, conforme à son objet social et dont le financement est approuvé par le Bureau, par les membres de l’Association ou certains d’entre eux ;
 - Toutes sommes perçues en contrepartie des prestations fournies par l’Association ;
 - Les subventions de l’État, des régions, des départements, des communes et des établissements publics, d’organismes internationaux, de fondations, des subventions d’entreprises publiques ou privées ou personnes privées ;
-- Toute autre ressource qui ne lui sont pas interdites par les lois et règlements en vigueur.
+- Toutes autres ressources qui ne lui sont pas interdites par les lois et règlements en vigueur.
 
 ## Consultations ##
 
@@ -179,7 +179,7 @@ Sauf autorisation écrite et préalable du Bureau, la revente des services de l�
 Il incombe à l’adhérent d’avoir à sa disposition le matériel informatique nécessaire à son utilisation des services de l’Association.
 L’adhérent est responsable de l’installation et de la configuration des outils nécessaires pour utiliser les services de l’Association.
 
-Les membres de l’Association pourront si nécessaire conseiller l’adhérent quant au choix de ces équipements, de leur installation et de leur configuration, mais sans aucune obligation, ni de résultat ni de moyen.
+Les membres de l’Association pourront si nécessaire conseiller l’adhérent quant au choix de ces équipements, de leur installation et de leur configuration, mais sans aucune obligation, ni de résultat ni de moyens.
 
 L’Association s’efforce de traiter les problèmes techniques avec diligence et efficacité. Toutefois, l’Association ne présente à ses adhérents :
 
@@ -190,7 +190,7 @@ L’Association s’efforce de traiter les problèmes techniques avec diligence 
 
 L’adhérent, disposant des mêmes droits et devoirs vis-à-vis de l’Association que les autres, est co-responsable de son fonctionnement. En tant que tel, il est habilité et encouragé, en fonction de ses moyens et de ses compétences, à participer à son fonctionnement et à celui de ses organes et/ou services. En conséquence l’adhérent n’est pas fondé à se comporter comme un simple utilisateur ou comme un client, ni à exiger des autres adhérents une diligence dont il n’aura pas lui-même fait preuve. C’est dans ce contexte que l’Association s’organise afin d’apporter aux adhérents des services disponibles et de qualité.
 
-L’Association réfute par ailleurs toute responsabilité vis-à-vis d’outils matériels ou logiciels installés/utilisés par l’adhérent pour faire usage des services fournis par l’Association.
+L’Association décline par ailleurs toute responsabilité vis-à-vis d’outils matériels ou logiciels installés/utilisés par l’adhérent pour faire usage des services fournis par l’Association.
 
 Au titre d’une mesure exceptionnelle, l’Association se réserve le droit de suspendre l’accès d’un adhérent à des services, sans l’avertir, à condition que la sauvegarde des services de l’Association l’exige. En cas de force majeure, l’Association se réserve également le droit de suspendre le compte d’un adhérent, s’il en va de la sauvegarde des services de l’Association.
 Tout transfert d’informations ou de fichiers par l’utilisation des services mis à disposition par l’Association reste sous la responsabilité de l’adhérent. L’Association n’est en aucun cas responsable de la diffusion des données et des informations réalisées par un adhérent, et ne pourra être déclarée comme telle dans un quelconque litige impliquant celui-ci. L’adhérent garantit l’Association contre tout recours de tiers suite à ses agissements et aux usages qu’il aura fait des services de l’Association.
