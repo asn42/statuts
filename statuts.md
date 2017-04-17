@@ -99,7 +99,7 @@ En cas de consultation par un autre moyen (réunion physique, accord unanime) le
 
 ## Composition et attribution du Bureau ##
 
-Le Bureau assure la gestion courante de l’Association. Il se réunit aussi souvent que l’intérêt de l’Association l’exige.
+Le Bureau assure la gestion courante de l’Association.
 Les membres du Bureau sont désignés par l’Assemblée Générale pour une durée de un an. Ils sont rééligibles.
 
 Le Bureau est composé de trois membres au moins (un Président, un Secrétaire général, un Trésorier).
@@ -109,7 +109,6 @@ Le Président, Vice-Président et le Secrétaire désignés assureront lors des 
 
 Les fonctions de membre du Bureau ne sont pas rémunérées. Des remboursements de frais sont seuls possibles, sur production de justificatifs de dépenses engagées dans l’intérêt de l’Association et approuvés par le Bureau.
 
-Le Président représente seul l’Association dans tous les actes de la vie civile et est investi de tous pouvoirs à cet effet. Le Président peut déléguer partiellement ses pouvoirs sous sa responsabilité à un ou plusieurs mandataires de son choix, membres de l’Association.
 Le Vice-Président ou les Vice-Présidents, s’il en a été désigné, assiste(nt) le Président dans l’exercice de ses fonctions et le remplace(nt) en cas d’empêchement.
 Le Secrétaire établit ou fait établir les procès-verbaux des réunions du Bureau et de l’Assemblée Générale. Il est tenu un registre légal des procès-verbaux.
 Le Trésorier établit ou fait établir sous sa responsabilité les comptes de l’Association. Il est chargé de l’appel des cotisations. Il procède, sous le contrôle du Président au paiement et à la réception de toutes sommes.
@@ -122,6 +121,7 @@ Outre le cas de démission et de révocation, les fonctions des membres du Burea
 ## Pouvoirs du Président et du Bureau ##
 
 Le Président représente l’Association dans tous les actes de la vie civile et est investi de tout pouvoir à cet effet. Il a notamment qualité pour ester en justice au nom de l’Association.
+Le Président peut déléguer partiellement ses pouvoirs sous sa responsabilité à un ou plusieurs mandataires de son choix, membres de l’Association.
 
 Le Bureau est investi des pouvoirs les plus étendus pour administrer l’Association dans les limites de son objet et sous réserves de pouvoirs de l’Assemblée Générale. Il autorise le Président à agir en justice.
 Il prend notamment toutes décisions relatives à la gestion et à la conservation du patrimoine de l’Association et particulièrement, celles relatives à l’emploi des fonds, à la prise à bail des locaux nécessaires à la réalisation de l’objet de l’Association.
