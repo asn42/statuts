@@ -150,7 +150,7 @@ L’Assemblée Générale se réunira notamment pour l’approbation des comptes
 L’ordre du jour est réglé par le Bureau qui fixe également le lieu de la réunion.
 Tout membre adhérent peut demander l’inscription d’un point à l’ordre du jour, au plus tard dans les 72 heures précédant la réunion de l’assemblée.
 Le membre souhaitant inscrire un point à l’ordre du jour devra transmettre l’intitulé de ce point et le texte précis des résolutions y correspondant au Président et au Secrétaire Général. Ce point nouveau sera porté à la connaissance des membres, au plus tard au début de la réunion de l’Assemblée.
-Il est présenté à l’assemblée, en vue de l’approbation des comptes, le rapport annuel du Trésorier sur la situation financière de l’Association et sur le rapport annuel du Président.
+Il est présenté à l’assemblée, en vue de l’approbation des comptes, le rapport annuel du Trésorier sur la situation financière de l’Association et le rapport annuel d’activité du Président.
 L’Assemblée délibère sur les questions mises à l’ordre du jour.
 Chaque membre de l’Association dispose d’une voix.
 Un membre de l’Association ne peut se faire représenter que par un autre membre de l’Association.
