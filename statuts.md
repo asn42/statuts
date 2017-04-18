@@ -110,7 +110,7 @@ Le Président et le Secrétaire désignés assureront lors des assemblées respe
 Les fonctions de membre du Bureau ne sont pas rémunérées. Des remboursements de frais sont seuls possibles, sur production de justificatifs de dépenses engagées dans l’intérêt de l’Association et approuvés par le Bureau.
 
 Le Vice-Président ou les Vice-Présidents, s’il en a été désigné, assiste(nt) le Président dans l’exercice de ses fonctions et le remplace(nt) en cas d’empêchement.
-Le Secrétaire établit ou fait établir les procès-verbaux des réunions du Bureau et de l’Assemblée Générale. Il est tenu un registre légal des procès-verbaux.
+Le Secrétaire établit ou fait établir les procès-verbaux des réunions du Bureau et de l’Assemblée Générale.
 Le Trésorier établit ou fait établir sous sa responsabilité les comptes de l’Association. Il est chargé de l’appel des cotisations. Il procède, sous le contrôle du Président au paiement et à la réception de toutes sommes.
 Le Trésorier établit un rapport sur la situation financière de l’Association et le présente à l’Assemblée Générale annuelle.
 
