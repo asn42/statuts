@@ -99,7 +99,7 @@ En cas de consultation par un autre moyen (réunion physique, accord unanime) le
 
 ## Composition et attribution du Bureau ##
 
-Le Bureau assure la gestion courante de l’Association.
+Le Bureau met en œuvre les décisions de l’Assemblée Générale et assure la gestion courante de l’Association.
 Les membres du Bureau sont désignés par l’Assemblée Générale pour une durée de un an. Ils sont rééligibles.
 
 Le Bureau est composé de trois membres au moins (un Président, un Secrétaire général, un Trésorier).
@@ -126,7 +126,7 @@ Le Président peut déléguer partiellement ses pouvoirs sous sa responsabilité
 Le Bureau est investi des pouvoirs les plus étendus pour administrer l’Association dans les limites de son objet et sous réserves de pouvoirs de l’Assemblée Générale. Il autorise le Président à agir en justice.
 Il prend notamment toutes décisions relatives à la gestion et à la conservation du patrimoine de l’Association et particulièrement, celles relatives à l’emploi des fonds, à la prise à bail des locaux nécessaires à la réalisation de l’objet de l’Association.
 Il autorise les accords et contrats à intervenir entre l’Association et des personnes physiques ou morales, permettant à celles-ci de bénéficier des services de l’Association, en échange ou non de contreparties.
-Le Bureau définit les principales orientations de l’Association. Il arrête le budget et les comptes annuels de l’Association.
+Le Bureau arrête le budget et les comptes annuels de l’Association.
 
 ## Réunion et délibération du Bureau ##
 
@@ -141,6 +141,7 @@ Il est rédigé un procès-verbal de chacune des séances du Bureau. Les procès
 
 ## Assemblée Générale des membres ##
 
+L’Assemblée Générale définit les principales orientations de l’Association.
 Toutes les décisions excédant les pouvoirs du Bureau sont prises collégialement par les membres de l’Association.
 L’Assemblée Générale de l’Association se compose de tous les adhérents de l’Association à jour de leur cotisation.
 L’Assemblée Générale, tient session au moins une fois par an et sur convocation du Bureau.
