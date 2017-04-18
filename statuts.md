@@ -134,7 +134,7 @@ Le Bureau tient une session au moins une fois par an, et chaque fois que l’int
 Le lieu de la réunion du Bureau est fixé par l’auteur de la convocation.
 Les décisions sont prises aux deux tiers des voix des membres du Bureau présents ou représentés. En cas de partage, la voix du Président est prépondérante.
 Seul un membre du Bureau peut représenter un autre membre du Bureau.
-Le Bureau ne délibère valablement que si au moins la moitié de ses membres sont présents ou représentés.
+Le Bureau ne délibère valablement que si au moins la moitié de ses membres, et qu’au moins trois membres, sont présents ou représentés.
 Tout membre du Bureau qui, sans excuse, n’aura pas participé à trois sessions consécutives, pourra être considéré comme démissionnaire, sur décision du Bureau.
 L’organisation et le déroulement de chaque session peuvent faire appel en tout ou partie aux moyens électroniques, notamment en ce qui concerne l’annonce de la session, les délibérations, la prise de décision, la constatation et la communication des décisions prises.
 Il est rédigé un procès-verbal de chacune des séances du Bureau. Les procès-verbaux sont signés par le Président et Secrétaire de séance.
@@ -147,7 +147,7 @@ L’Assemblée Générale de l’Association se compose de tous les adhérents d
 L’Assemblée Générale, tient session au moins une fois par an et sur convocation du Bureau.
 L’Assemblée Générale se réunira chaque fois que le Bureau le jugera opportun ou que la loi l’exige.
 L’Assemblée Générale se réunira notamment pour l’approbation des comptes de l’Association, la ratification des nominations par cooptation faites par le Bureau ou pour décider de la révocation de membres du Bureau.
-L’ordre du jour est réglé par le ou les auteurs de la convocation qui fixe également le lieu de la réunion.
+L’ordre du jour est réglé par le Bureau qui fixe également le lieu de la réunion.
 Tout membre adhérent peut demander l’inscription d’un point à l’ordre du jour, au plus tard dans les 72 heures précédant la réunion de l’assemblée.
 Le membre souhaitant inscrire un point à l’ordre du jour devra transmettre l’intitulé de ce point et le texte précis des résolutions y correspondant au Président et au Secrétaire Général. Ce point nouveau sera porté à la connaissance des membres, au plus tard au début de la réunion de l’Assemblée.
 Il est présenté à l’assemblée, en vue de l’approbation des comptes, le rapport annuel du Trésorier sur la situation financière de l’Association et sur le rapport annuel du Président.
@@ -156,7 +156,7 @@ Chaque membre de l’Association dispose d’une voix.
 Un membre de l’Association ne peut se faire représenter que par un autre membre de l’Association.
 L’Assemblée est convoquée dans un délai raisonnable permettant à tous les membres de participer utilement et effectivement à la réunion. Néanmoins, dans tous les cas où la totalité des membres est réunie et accepte formellement cette procédure, une Assemblée Générale peut être constituée sur-le-champ et statuer valablement sans convocation. Cette règle ne vaut pas pour l’Assemblée Générale annuelle approuvant les comptes de l’Association.
 La convocation doit indiquer précisément l’ordre du jour de la séance, la date, le lieu et l’heure de la réunion. La convocation peut être effectuée par tous moyens. Les convocations par courrier électronique ou par courrier sont effectuées à la dernière adresse communiquée par le membre à l’Association.
-Les décisions prises par l’Assemblée Générale donnent lieu à l’établissement d’un procès-verbal signé par les membres du Bureau de l’Association.
+Les décisions prises par l’Assemblée Générale donnent lieu à l’établissement d’un procès-verbal signé par par le Président et Secrétaire de séance.
 L’organisation et le déroulement de chaque Assemblée Générale peuvent faire appel en tout ou partie aux moyens électroniques, notamment en ce qui concerne l’annonce de l’Assemblée, les délibérations, la prise de décision, la constatation et la publicité des décisions prises.
 Majorités :
 Les décisions de modification des statuts et/ou de dissolution de l’Association et/ou de révocation d’un membre du Bureau seront prises à la majorité des 2/3 des voix des membres présents ou représentés.
