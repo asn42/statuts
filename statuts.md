@@ -27,8 +27,8 @@ L’Association a pour objet :
 
 Le siège social est situé:
 
-À l’école 42
-96, boulevard Bessières
+À l’école 42  
+96, boulevard Bessières  
 75017 Paris.
 
 Il peut être transféré à toute autre adresse, sur simple décision du Bureau ou de l’Assemblée Générale.
