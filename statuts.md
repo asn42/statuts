@@ -203,6 +203,8 @@ L’adhérent s’engage par la demande d’adhésion, à utiliser ces codes, ou
 
 Les services peuvent, dans le cadre d’accords ou de contrats autorisés par le Bureau, être fournis à des personnes physiques ou morales n’étant pas membres de l’Association.
 
+Les anciens membres actifs qui le demandent peuvent, si le Bureau l'autorise, bénéficier de certains services, comme une redirection mail.
+
 ## Règlement Intérieur ##
 
 Un règlement intérieur peut être préparé par le Bureau et adopté par l’Assemblée Générale. Ce règlement éventuel est destiné à fixer les divers points non prévus par les statuts.
