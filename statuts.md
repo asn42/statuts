@@ -201,7 +201,7 @@ L’adhérent s’engage par la demande d’adhésion, à utiliser ces codes, ou
 
 Les services peuvent, dans le cadre d’accords ou de contrats autorisés par le Bureau, être fournis à des personnes physiques ou morales n’étant pas membres de l’Association.
 
-Les anciens membres actifs qui le demandent peuvent, si le Bureau l'autorise, bénéficier de certains services, comme une redirection mail.
+Les anciens membres actifs qui le demandent peuvent, si le Bureau l’autorise, bénéficier de certains services, comme une redirection mail.
 
 ## Règlement Intérieur ##
 
