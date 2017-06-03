@@ -41,9 +41,9 @@ Pour devenir membre de l’Association, il faut :
 - régler sa cotisation,
 - et s’engager à respecter les statuts et le Règlement Intérieur, s’il y a lieu, de l’Association.
 
-Toute demande d’agrément d’un nouveau membre devra être adressée par écrit au Bureau de l’Association (sous forme physique ou informatique).
-Le Bureau statue sur la demande d’adhésion et décide d’agréer ou non le postulant.
-Le refus d’admission n’a pas à être motivé.
+Toute demande d’agrément d’un nouveau membre devra être adressée par écrit au Bureau de l’Association (sous forme physique ou informatique).  
+Le Bureau statue sur la demande d’adhésion et décide d’agréer ou non le postulant.  
+Le refus d’admission n’a pas à être motivé.  
 L’accession et le maintien de la qualité de membre sont soumis au paiement d’une cotisation annuelle dont le montant est fixé annuellement par le Bureau et au respect des statuts et du règlement intérieur de l’Association, s’il existe.
 
 Les cotisations seront réglées :
@@ -53,7 +53,7 @@ Les cotisations seront réglées :
 - en espèces ou par chèque, contre remise d’un justificatif du Trésorier de l’Association,
 - ou par carte bancaire, si l’Association a mis en place un tel mode de règlement.
 
-Le Bureau peut proposer une réduction ou une exemption de cotisation pour des membres dont les faibles moyens financiers présenteraient un obstacle à l’adhésion, sur présentation d’un justificatif. Pour bénéficier de ces conditions préférentielles, l’adhérent doit en faire la demande en présentant les justificatifs nécessaires auprès du Bureau, qui a toute latitude pour statuer.
+Le Bureau peut proposer une réduction ou une exemption de cotisation pour des membres dont les faibles moyens financiers présenteraient un obstacle à l’adhésion, sur présentation d’un justificatif. Pour bénéficier de ces conditions préférentielles, l’adhérent doit en faire la demande en présentant les justificatifs nécessaires auprès du Bureau, qui a toute latitude pour statuer.  
 Sauf quand les conditions donnant droit au tarif préférentiel sont par nature définitives, l’adhérent devra présenter un justificatif régulièrement pour pouvoir continuer à bénéficier de ces conditions préférentielles.
 
 La participation aux activités de l’Association est possible pour des personnes qui ne sont pas membres, sur décision du Bureau.
@@ -87,78 +87,78 @@ Les ressources de l’Association comprennent :
 
 ## Consultations ##
 
-Tout scrutin tant dans son organisation (convocations, etc.) que dans son déroulement (discussions, votes, etc.), quel qu’en soit l’objet, quel qu’en soit l’organe, peut, au choix du Président être organisé par mode électronique ou non dans la mesure où la loi le permet.
-Dans les cas où une consultation par mode électronique est décidée, il est expressément convenu que les participants concernés, membres du Bureau, membres de l’Assemblée Générale ou de tout autre organe de l’Association, devront avoir été préalablement informés du déroulement des scrutins et qu’un espace de discussion leur aura été réservé durant un temps suffisant.
-Il sera en toute hypothèse établi un procès-verbal rendant compte des décisions prises dans le cadre de la consultation.
+Tout scrutin tant dans son organisation (convocations, etc.) que dans son déroulement (discussions, votes, etc.), quel qu’en soit l’objet, quel qu’en soit l’organe, peut, au choix du Président être organisé par mode électronique ou non dans la mesure où la loi le permet.  
+Dans les cas où une consultation par mode électronique est décidée, il est expressément convenu que les participants concernés, membres du Bureau, membres de l’Assemblée Générale ou de tout autre organe de l’Association, devront avoir été préalablement informés du déroulement des scrutins et qu’un espace de discussion leur aura été réservé durant un temps suffisant.  
+Il sera en toute hypothèse établi un procès-verbal rendant compte des décisions prises dans le cadre de la consultation.  
 En cas de consultation par un autre moyen (réunion physique, accord unanime) les personnes concernées seront convoquées et informées par tous moyens, y compris électroniques.
 
 ## Composition et attribution du Bureau ##
 
-Le Bureau met en œuvre les décisions de l’Assemblée Générale et assure la gestion courante de l’Association.
+Le Bureau met en œuvre les décisions de l’Assemblée Générale et assure la gestion courante de l’Association.  
 Les membres du Bureau sont désignés par l’Assemblée Générale pour une durée de un an. Ils sont rééligibles.
 
-Le Bureau est composé de trois membres au moins (un Président, un Secrétaire général, un Trésorier).
-Un Vice-Président ou deux Vice-Présidents peuvent également être élus.
-Au besoin, des adjoints peuvent assister le Secrétaire général et le Trésorier.
-Le Président et le Secrétaire désignés assureront lors des assemblées respectivement les fonctions de Président de séance et Secrétaire de l’Assemblée Générale.
+Le Bureau est composé de trois membres au moins (un Président, un Secrétaire général, un Trésorier).  
+Un Vice-Président ou deux Vice-Présidents peuvent également être élus.  
+Au besoin, des adjoints peuvent assister le Secrétaire général et le Trésorier.  
+Le Président et le Secrétaire désignés assureront lors des assemblées respectivement les fonctions de Président de séance et Secrétaire de l’Assemblée Générale.  
 
 Les fonctions de membre du Bureau ne sont pas rémunérées. Des remboursements de frais sont seuls possibles, sur production de justificatifs de dépenses engagées dans l’intérêt de l’Association et approuvés par le Bureau.
 
-Le Vice-Président ou les Vice-Présidents, s’il en a été désigné, assiste(nt) le Président dans l’exercice de ses fonctions et le remplace(nt) en cas d’empêchement.
-Le Secrétaire établit ou fait établir les procès-verbaux des réunions du Bureau et de l’Assemblée Générale.
-Le Trésorier établit ou fait établir sous sa responsabilité les comptes de l’Association. Il est chargé de l’appel des cotisations. Il procède, sous le contrôle du Président au paiement et à la réception de toutes sommes.
-Le Trésorier établit un rapport sur la situation financière de l’Association et le présente à l’Assemblée Générale annuelle.
+Le Vice-Président ou les Vice-Présidents, s’il en a été désigné, assiste(nt) le Président dans l’exercice de ses fonctions et le remplace(nt) en cas d’empêchement.  
+Le Secrétaire établit ou fait établir les procès-verbaux des réunions du Bureau et de l’Assemblée Générale.  
+Le Trésorier établit ou fait établir sous sa responsabilité les comptes de l’Association. Il est chargé de l’appel des cotisations. Il procède, sous le contrôle du Président au paiement et à la réception de toutes sommes.  
+Le Trésorier établit un rapport sur la situation financière de l’Association et le présente à l’Assemblée Générale annuelle.  
 
-Un membre du Bureau peut décider de démissionner, à tout moment, en adressant sa démission au Bureau.
-Un membre du Bureau peut être révoqué par l’Assemblée Générale.
+Un membre du Bureau peut décider de démissionner, à tout moment, en adressant sa démission au Bureau.  
+Un membre du Bureau peut être révoqué par l’Assemblée Générale.  
 Outre le cas de démission et de révocation, les fonctions des membres du Bureau cessent immédiatement par décès, incapacité, perte des droits civiques, perte de la qualité d’adhérent.
 
 ## Pouvoirs du Président et du Bureau ##
 
-Le Président représente l’Association dans tous les actes de la vie civile et est investi de tout pouvoir à cet effet. Il a notamment qualité pour ester en justice au nom de l’Association.
+Le Président représente l’Association dans tous les actes de la vie civile et est investi de tout pouvoir à cet effet. Il a notamment qualité pour ester en justice au nom de l’Association.  
 Le Président peut déléguer partiellement ses pouvoirs sous sa responsabilité à un ou plusieurs mandataires de son choix, membres de l’Association.
 
-Le Bureau est investi des pouvoirs les plus étendus pour administrer l’Association dans les limites de son objet et sous réserves de pouvoirs de l’Assemblée Générale. Il autorise le Président à agir en justice.
-Il prend notamment toutes décisions relatives à la gestion et à la conservation du patrimoine de l’Association et particulièrement, celles relatives à l’emploi des fonds, à la prise à bail des locaux nécessaires à la réalisation de l’objet de l’Association.
-Il autorise les accords et contrats à intervenir entre l’Association et des personnes physiques ou morales.
+Le Bureau est investi des pouvoirs les plus étendus pour administrer l’Association dans les limites de son objet et sous réserves de pouvoirs de l’Assemblée Générale. Il autorise le Président à agir en justice.  
+Il prend notamment toutes décisions relatives à la gestion et à la conservation du patrimoine de l’Association et particulièrement, celles relatives à l’emploi des fonds, à la prise à bail des locaux nécessaires à la réalisation de l’objet de l’Association.  
+Il autorise les accords et contrats à intervenir entre l’Association et des personnes physiques ou morales.  
 Le Bureau arrête le budget et les comptes annuels de l’Association.
 
 ## Réunion et délibération du Bureau ##
 
-Le Bureau tient une session au moins une fois par an, et chaque fois que l’intérêt de l’Association le requiert. Le Bureau est convoqué par le Président ou par le Secrétaire Général.
-Le lieu de la réunion du Bureau est fixé par l’auteur de la convocation.
-Les décisions sont prises aux deux tiers (2/3) des voix des membres du Bureau présents ou représentés. En cas de partage, la voix du Président est prépondérante.
-Seul un membre du Bureau peut représenter un autre membre du Bureau.
-Le Bureau ne délibère valablement que si au moins la moitié de ses membres, et qu’au moins trois membres, sont présents ou représentés.
-Tout membre du Bureau qui, sans excuse, n’aura pas participé à trois sessions consécutives, pourra être considéré comme démissionnaire, sur décision du Bureau.
-L’organisation et le déroulement de chaque session peuvent faire appel en tout ou partie aux moyens électroniques, notamment en ce qui concerne l’annonce de la session, les délibérations, la prise de décision, la constatation et la communication des décisions prises.
+Le Bureau tient une session au moins une fois par an, et chaque fois que l’intérêt de l’Association le requiert. Le Bureau est convoqué par le Président ou par le Secrétaire Général.  
+Le lieu de la réunion du Bureau est fixé par l’auteur de la convocation.  
+Les décisions sont prises aux deux tiers (2/3) des voix des membres du Bureau présents ou représentés. En cas de partage, la voix du Président est prépondérante.  
+Seul un membre du Bureau peut représenter un autre membre du Bureau.  
+Le Bureau ne délibère valablement que si au moins la moitié de ses membres, et qu’au moins trois membres, sont présents ou représentés.  
+Tout membre du Bureau qui, sans excuse, n’aura pas participé à trois sessions consécutives, pourra être considéré comme démissionnaire, sur décision du Bureau.  
+L’organisation et le déroulement de chaque session peuvent faire appel en tout ou partie aux moyens électroniques, notamment en ce qui concerne l’annonce de la session, les délibérations, la prise de décision, la constatation et la communication des décisions prises.  
 Il est rédigé un procès-verbal de chacune des séances du Bureau. Les procès-verbaux sont signés par le Président et Secrétaire de séance.
 
 ## Assemblée Générale des membres ##
 
-L’Assemblée Générale définit les principales orientations de l’Association.
-Toutes les décisions excédant les pouvoirs du Bureau sont prises collégialement par les membres de l’Association.
-L’Assemblée Générale de l’Association se compose de tous les adhérents de l’Association à jour de leur cotisation.
-L’Assemblée Générale, tient session au moins une fois par an et sur convocation du Bureau.
-L’Assemblée Générale se réunira chaque fois que le Bureau le jugera opportun, que la loi l’exige, ou que deux tiers (2/3) des membres le demandent.
-L’Assemblée Générale se réunira notamment pour l’approbation des comptes de l’Association, la ratification des nominations par cooptation faites par le Bureau ou pour décider de la révocation de membres du Bureau.
-L’ordre du jour est réglé par le Bureau qui fixe également le lieu de la réunion.
-Tout membre adhérent peut demander l’inscription d’un point à l’ordre du jour, au plus tard dans les 72 heures précédant la réunion de l’assemblée.
-Le membre souhaitant inscrire un point à l’ordre du jour devra transmettre l’intitulé de ce point et le texte précis des résolutions y correspondant au Président et au Secrétaire Général. Ce point nouveau sera porté à la connaissance des membres, au plus tard au début de la réunion de l’Assemblée.
-Il est présenté à l’assemblée, en vue de l’approbation des comptes, le rapport annuel du Trésorier sur la situation financière de l’Association et le rapport annuel d’activité du Président.
-L’Assemblée délibère sur les questions mises à l’ordre du jour.
-Chaque membre de l’Association dispose d’une voix.
-Un membre de l’Association ne peut se faire représenter que par un autre membre de l’Association.
-L’Assemblée est convoquée dans un délai raisonnable permettant à tous les membres de participer utilement et effectivement à la réunion. Néanmoins, dans tous les cas où la totalité des membres est réunie et accepte formellement cette procédure, une Assemblée Générale peut être constituée sur-le-champ et statuer valablement sans convocation. Cette règle ne vaut pas pour l’Assemblée Générale annuelle approuvant les comptes de l’Association.
-La convocation doit indiquer précisément l’ordre du jour de la séance, la date, le lieu et l’heure de la réunion. La convocation peut être effectuée par tous moyens. Les convocations par courrier électronique ou par courrier sont effectuées à la dernière adresse communiquée par le membre à l’Association.
-Les décisions prises par l’Assemblée Générale donnent lieu à l’établissement d’un procès-verbal signé par par le Président et Secrétaire de séance.
-L’organisation et le déroulement de chaque Assemblée Générale peuvent faire appel en tout ou partie aux moyens électroniques, notamment en ce qui concerne l’annonce de l’Assemblée, les délibérations, la prise de décision, la constatation et la publicité des décisions prises.
-Les décisions de modification des statuts et/ou de dissolution de l’Association et/ou de révocation d’un membre du Bureau seront prises à la majorité des deux tiers (2/3) des voix des membres présents ou représentés.
+L’Assemblée Générale définit les principales orientations de l’Association.  
+Toutes les décisions excédant les pouvoirs du Bureau sont prises collégialement par les membres de l’Association.  
+L’Assemblée Générale de l’Association se compose de tous les adhérents de l’Association à jour de leur cotisation.  
+L’Assemblée Générale, tient session au moins une fois par an et sur convocation du Bureau.  
+L’Assemblée Générale se réunira chaque fois que le Bureau le jugera opportun, que la loi l’exige, ou que deux tiers (2/3) des membres le demandent.  
+L’Assemblée Générale se réunira notamment pour l’approbation des comptes de l’Association, la ratification des nominations par cooptation faites par le Bureau ou pour décider de la révocation de membres du Bureau.  
+L’ordre du jour est réglé par le Bureau qui fixe également le lieu de la réunion.  
+Tout membre adhérent peut demander l’inscription d’un point à l’ordre du jour, au plus tard dans les 72 heures précédant la réunion de l’assemblée.  
+Le membre souhaitant inscrire un point à l’ordre du jour devra transmettre l’intitulé de ce point et le texte précis des résolutions y correspondant au Président et au Secrétaire Général. Ce point nouveau sera porté à la connaissance des membres, au plus tard au début de la réunion de l’Assemblée.  
+Il est présenté à l’assemblée, en vue de l’approbation des comptes, le rapport annuel du Trésorier sur la situation financière de l’Association et le rapport annuel d’activité du Président.  
+L’Assemblée délibère sur les questions mises à l’ordre du jour.  
+Chaque membre de l’Association dispose d’une voix.  
+Un membre de l’Association ne peut se faire représenter que par un autre membre de l’Association.  
+L’Assemblée est convoquée dans un délai raisonnable permettant à tous les membres de participer utilement et effectivement à la réunion. Néanmoins, dans tous les cas où la totalité des membres est réunie et accepte formellement cette procédure, une Assemblée Générale peut être constituée sur-le-champ et statuer valablement sans convocation. Cette règle ne vaut pas pour l’Assemblée Générale annuelle approuvant les comptes de l’Association.  
+La convocation doit indiquer précisément l’ordre du jour de la séance, la date, le lieu et l’heure de la réunion. La convocation peut être effectuée par tous moyens. Les convocations par courrier électronique ou par courrier sont effectuées à la dernière adresse communiquée par le membre à l’Association.  
+Les décisions prises par l’Assemblée Générale donnent lieu à l’établissement d’un procès-verbal signé par par le Président et Secrétaire de séance.  
+L’organisation et le déroulement de chaque Assemblée Générale peuvent faire appel en tout ou partie aux moyens électroniques, notamment en ce qui concerne l’annonce de l’Assemblée, les délibérations, la prise de décision, la constatation et la publicité des décisions prises.  
+Les décisions de modification des statuts et/ou de dissolution de l’Association et/ou de révocation d’un membre du Bureau seront prises à la majorité des deux tiers (2/3) des voix des membres présents ou représentés.  
 Toutes les autres décisions des assemblées sont prises à la majorité simple des voix, des membres présents ou représentés.
 
 ## Responsabilité des membres
 
-Les membres sont seuls responsables de l’utilisation qu’ils font des connaissances et du matériel obtenus via l’Association.
+Les membres sont seuls responsables de l’utilisation qu’ils font des connaissances et du matériel obtenus via l’Association.  
 L’Association décline par ailleurs toute responsabilité vis-à-vis d’outils matériels ou logiciels installés/utilisés par l’adhérent pour faire usage des services fournis par l’Association.
 
 L’Association peut être amenée à prêter du matériel à des membres dans le cadre de projets ou d’ateliers. Les membres acceptent la responsabilité de ce matériel et le rembourseront en cas de dommages ou de perte.
@@ -171,9 +171,9 @@ Un membre pourra être amené à assumer les conséquences financières, et l’
 - en cas de mise en danger des services de l’Association, des donnés de ses membres ou de ses partenaires ;
 - en cas d’utilisation immodéré et visiblement hors norme des ressources de l’Association
 
-Tout transfert d’informations ou de fichiers par l’utilisation des services mis à disposition par l’Association reste sous la responsabilité de l’adhérent. L’Association n’est en aucun cas responsable de la diffusion des données et des informations réalisées par un adhérent, et ne pourra être déclarée comme telle dans un quelconque litige impliquant celui-ci. L’adhérent garantit l’Association contre tout recours de tiers suite à ses agissements et aux usages qu’il aura fait des services de l’Association.
-L’adhérent est seul responsable de ses écrits et de ses actes. Il s’engage à utiliser les services et équipements de l’Association dans le respect des lois en vigueur en France et des règles d’éthique en usage sur Internet. Un manquement manifeste et délibéré aux règles d’éthique usuelles d’Internet de la part d’un adhérent (par exemple, envois de courrier électronique non sollicités fréquents et/ou nombreux) entraîne ipso facto la suspension de la fourniture du service concerné à l’adhérent et éventuellement l’initiation d’une procédure de radiation par le Bureau de l’Association.
-Tout acte de malveillance constaté à l’encontre des services de l’Association pourra faire l’objet d’un dépôt de plainte. S’il est avéré qu’un adhérent en est l’auteur, l’Association procédera sans délai à la suspension des services de cet adhérent et à sa radiation.
+Tout transfert d’informations ou de fichiers par l’utilisation des services mis à disposition par l’Association reste sous la responsabilité de l’adhérent. L’Association n’est en aucun cas responsable de la diffusion des données et des informations réalisées par un adhérent, et ne pourra être déclarée comme telle dans un quelconque litige impliquant celui-ci. L’adhérent garantit l’Association contre tout recours de tiers suite à ses agissements et aux usages qu’il aura fait des services de l’Association.  
+L’adhérent est seul responsable de ses écrits et de ses actes. Il s’engage à utiliser les services et équipements de l’Association dans le respect des lois en vigueur en France et des règles d’éthique en usage sur Internet. Un manquement manifeste et délibéré aux règles d’éthique usuelles d’Internet de la part d’un adhérent (par exemple, envois de courrier électronique non sollicités fréquents et/ou nombreux) entraîne ipso facto la suspension de la fourniture du service concerné à l’adhérent et éventuellement l’initiation d’une procédure de radiation par le Bureau de l’Association.  
+Tout acte de malveillance constaté à l’encontre des services de l’Association pourra faire l’objet d’un dépôt de plainte. S’il est avéré qu’un adhérent en est l’auteur, l’Association procédera sans délai à la suspension des services de cet adhérent et à sa radiation.  
 L’Association se réserve en outre le droit d’engager des poursuites pour obtenir réparation des dommages causés à elle-même ou à des tiers.
 
 ## Services ##
@@ -203,7 +203,7 @@ L’adhérent, disposant des mêmes droits et devoirs vis-à-vis de l’Associat
 
 L’Association se réserve le droit de suspendre l’accès d’un adhérent à des services ou de suspendre son compte, sans le prévenir, afin d’assurer la sauvegarde des services de l’Association ou la sécurité des données des membres et des partenaires de l’Association, ou en cas d’abus de ces services. Elle s’efforcera toutefois de le prévenir au préalable, dans la mesure du possible.
 
-Différents codes d’accès (identifiants et/ou mots de passe pour différents protocoles d’accès) sont fournis par l’Association à l’adhérent afin de lui permettre d’utiliser les services de l’Association.
+Différents codes d’accès (identifiants et/ou mots de passe pour différents protocoles d’accès) sont fournis par l’Association à l’adhérent afin de lui permettre d’utiliser les services de l’Association.  
 L’adhérent s’engage par la demande d’adhésion, à utiliser ces codes, ou tout autre code fourni officiellement par l’Association, pour son propre usage uniquement. Il s’engage également à ne diffuser aucun de ces codes, ni utiliser le code d’un autre adhérent.
 
 Les services peuvent, dans le cadre d’accords ou de contrats autorisés par le Bureau, être fournis à des personnes physiques ou morales n’étant pas membres de l’Association, en échange ou non de contreparties.
@@ -212,22 +212,22 @@ Les anciens membres actifs qui le demandent peuvent, si le Bureau l’autorise, 
 
 ## Désignation et attribution des Administrateurs Système ##
 
-Les Administrateurs Système sont désignés par le Bureau, qui prend en compte l’avis des Administrateurs Système précédents. Ils sont au préalable formés à la gestion du système informatique de l’Association.
-Ils sont responsables de la gestion des services et des ressources informatiques de l’Association.
-Les Administrateurs Système disposent de pouvoirs particuliers sur les ressources informatiques de l’Association, qui s’accompagnent de responsabilités.
-En cas d’usage malveillant ou irresponsable de ces pouvoirs, l’Administrateur Système ayant provoqué le problème est seul responsable, et l’Association peut se retourner contre lui.
-Les Administrateurs Système doivent en particulier veiller à la sécurité du système informatique de l’Association, et des données de ses membres et partenaires.
+Les Administrateurs Système sont désignés par le Bureau, qui prend en compte l’avis des Administrateurs Système précédents. Ils sont au préalable formés à la gestion du système informatique de l’Association.  
+Ils sont responsables de la gestion des services et des ressources informatiques de l’Association.  
+Les Administrateurs Système disposent de pouvoirs particuliers sur les ressources informatiques de l’Association, qui s’accompagnent de responsabilités.  
+En cas d’usage malveillant ou irresponsable de ces pouvoirs, l’Administrateur Système ayant provoqué le problème est seul responsable, et l’Association peut se retourner contre lui.  
+Les Administrateurs Système doivent en particulier veiller à la sécurité du système informatique de l’Association, et des données de ses membres et partenaires.  
 Ils doivent s’assurer que leurs successeurs puissent prendre la relève correctement, en documentant leur travail et en formant des remplaçants.
 
 ## Règlement Intérieur ##
 
-Un règlement intérieur peut être préparé par le Bureau et adopté par l’Assemblée Générale. Ce règlement éventuel est destiné à fixer les divers points non prévus par les statuts.
+Un règlement intérieur peut être préparé par le Bureau et adopté par l’Assemblée Générale. Ce règlement éventuel est destiné à fixer les divers points non prévus par les statuts.  
 Le règlement intérieur ne peut en aucune circonstance contredire les statuts de l’Association.
 
 ## Modification des statuts ##
 
-Les statuts peuvent être modifiés par l’Assemblée Générale sur proposition du Bureau.
-Les propositions de modifications sont inscrites à l’ordre du jour figurant sur la convocation à l’Assemblée Générale.
+Les statuts peuvent être modifiés par l’Assemblée Générale sur proposition du Bureau.  
+Les propositions de modifications sont inscrites à l’ordre du jour figurant sur la convocation à l’Assemblée Générale.  
 Les décisions de modification des statuts sont prises à la majorité des deux tiers (2/3) des voix des membres présents ou représentés.
 
 ## Dissolution ##
@@ -236,7 +236,7 @@ En cas de dissolution prononcée par les deux tiers (2/3) au moins des membres p
 
 ## Lois et règlements ##
 
-Toute personne participant à la vie ou aux activités de l’Association s’engage à respecter dans le cadre de cette participation les statuts de l’Association, le Règlement Intérieur s’il y a lieu, la lois française, et le règlement de 42. Cela vaut également lors de participation de l’Association à des activités ou évènements extérieurs.
+Toute personne participant à la vie ou aux activités de l’Association s’engage à respecter dans le cadre de cette participation les statuts de l’Association, le Règlement Intérieur s’il y a lieu, la lois française, et le règlement de 42. Cela vaut également lors de participation de l’Association à des activités ou évènements extérieurs.  
 Les utilisateurs des services proposés par l’Association s’engagent à ne pas les utiliser de manière contraires aux statuts et règlement intérieur de l’Association, à la législation française ou au règlement de 42.
 
 Il sera procédé aux formalités légales requises, dans les délais requis par les textes légaux et réglementaires en vigueur.
