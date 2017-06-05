@@ -71,9 +71,9 @@ Aucun remboursement des cotisations, ne sera effectué en cas de perte de la qua
 Sont considérés comme des motifs graves pouvant entraîner l’exclusion d’un membre :
 
 - toute initiative directe ou indirecte d’un membre visant à diffamer l’Association ou certains de ses membres ou à porter atteinte aux objectifs poursuivis par l’Association ;
-- le non respect des statuts, du règlement intérieur de l’Association ou de la lois française ;
+- le non respect des statuts, du règlement intérieur de l’Association ou de la loi française ;
 - l’atteinte, volontaire ou par négligence, aux ressources de l’Association, aux données de ses membres ou de ses partenaires ;
-- de manière plus générale, tout motif jugé grave par un nombre suffisant de membres du Bureau ou une Assemblée Générale.
+- de manière plus générale, tout motif jugé grave par le Bureau ou une Assemblée Générale.
 
 ## Ressources ##
 
@@ -113,6 +113,8 @@ Un membre du Bureau peut décider de démissionner, à tout moment, en adressant
 Un membre du Bureau peut être révoqué par l’Assemblée Générale.  
 Outre le cas de démission et de révocation, les fonctions des membres du Bureau cessent immédiatement par décès, incapacité, perte des droits civiques, perte de la qualité d’adhérent.
 
+En cas de poste vacant, le Bureau peut remplacer un de ses membres immédiatement par cooptation. Cette désignation sera entérinée par un vote à l'Assemblée Générale suivante.
+
 ## Pouvoirs du Président et du Bureau ##
 
 Le Président représente l’Association dans tous les actes de la vie civile et est investi de tout pouvoir à cet effet. Il a notamment qualité pour ester en justice au nom de l’Association.  
@@ -120,8 +122,7 @@ Le Président peut déléguer partiellement ses pouvoirs sous sa responsabilité
 
 Le Bureau est investi des pouvoirs les plus étendus pour administrer l’Association dans les limites de son objet et sous réserves de pouvoirs de l’Assemblée Générale. Il autorise le Président à agir en justice.  
 Il prend notamment toutes décisions relatives à la gestion et à la conservation du patrimoine de l’Association et particulièrement, celles relatives à l’emploi des fonds, à la prise à bail des locaux nécessaires à la réalisation de l’objet de l’Association.  
-Il autorise les accords et contrats à intervenir entre l’Association et des personnes physiques ou morales.  
-Le Bureau arrête le budget et les comptes annuels de l’Association.
+Il autorise les accords et contrats à intervenir entre l’Association et des personnes physiques ou morales.
 
 ## Réunion et délibération du Bureau ##
 
@@ -137,7 +138,7 @@ Il est rédigé un procès-verbal de chacune des séances du Bureau. Les procès
 ## Assemblée Générale des membres ##
 
 L’Assemblée Générale définit les principales orientations de l’Association.  
-Toutes les décisions excédant les pouvoirs du Bureau sont prises collégialement par les membres de l’Association.  
+Toutes les décisions excédant les pouvoirs du Bureau sont prises par une Assemblée Générale.  
 L’Assemblée Générale de l’Association se compose de tous les adhérents de l’Association à jour de leur cotisation.  
 L’Assemblée Générale, tient session au moins une fois par an et sur convocation du Bureau.  
 L’Assemblée Générale se réunira chaque fois que le Bureau le jugera opportun, que la loi l’exige, ou que deux tiers (2/3) des membres le demandent.  
@@ -163,13 +164,13 @@ L’Association décline par ailleurs toute responsabilité vis-à-vis d’outil
 
 L’Association peut être amenée à prêter du matériel à des membres dans le cadre de projets ou d’ateliers. Les membres acceptent la responsabilité de ce matériel et le rembourseront en cas de dommages ou de perte.
 
-Le matériel prêté par l’Association à des membres peut leur être cédé à prix coutant ou supérieur, notamment lors qu’il est utilisé dans la construction d’un projet par ces membres.
+Le matériel prêté par l’Association à des membres peut leur être cédé à prix coûtant ou supérieur, notamment lors qu’il est utilisé dans la construction d’un projet par ces membres.
 
 Un membre pourra être amené à assumer les conséquences financières, et l’Association pourra se retourner contre un membre :
 
 - en cas de détournement des ressources de l’Association à des fins personnelles ou contraires à l’objet de l’Association ;
-- en cas de mise en danger des services de l’Association, des donnés de ses membres ou de ses partenaires ;
-- en cas d’utilisation immodéré et visiblement hors norme des ressources de l’Association
+- en cas de mise en danger des services de l’Association, des données de ses membres ou de ses partenaires ;
+- en cas d’utilisation immodérée et visiblement hors norme des ressources de l’Association
 
 Tout transfert d’informations ou de fichiers par l’utilisation des services mis à disposition par l’Association reste sous la responsabilité de l’adhérent. L’Association n’est en aucun cas responsable de la diffusion des données et des informations réalisées par un adhérent, et ne pourra être déclarée comme telle dans un quelconque litige impliquant celui-ci. L’adhérent garantit l’Association contre tout recours de tiers suite à ses agissements et aux usages qu’il aura fait des services de l’Association.  
 L’adhérent est seul responsable de ses écrits et de ses actes. Il s’engage à utiliser les services et équipements de l’Association dans le respect des lois en vigueur en France et des règles d’éthique en usage sur Internet. Un manquement manifeste et délibéré aux règles d’éthique usuelles d’Internet de la part d’un adhérent (par exemple, envois de courrier électronique non sollicités fréquents et/ou nombreux) entraîne ipso facto la suspension de la fourniture du service concerné à l’adhérent et éventuellement l’initiation d’une procédure de radiation par le Bureau de l’Association.  
