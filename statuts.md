@@ -50,7 +50,7 @@ Les cotisations sont réglées :
 
 - par chèque libellé au nom de l’Association adressé au siège de l’Association, à l’attention du Trésorier,
 - ou par virement bancaire sur le compte bancaire de l’Association,
-- en espèces ou par chèque, contre remise d’un justificatif du Trésorier de l’Association,
+- ou en espèces ou par chèque, contre remise d’un justificatif du Trésorier de l’Association,
 - ou par carte bancaire, si l’Association a mis en place un tel mode de règlement.
 
 Le Bureau peut proposer une réduction ou une exemption de cotisation pour des membres dont les faibles moyens financiers présenteraient un obstacle à l’adhésion, sur présentation d’un justificatif. Pour bénéficier de ces conditions préférentielles, l’adhérent doit en faire la demande en présentant les justificatifs nécessaires auprès du Bureau, qui a toute latitude pour statuer.  
