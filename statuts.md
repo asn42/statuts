@@ -247,4 +247,4 @@ Les Statuts sont disponibles sur simple demande, ainsi que le Règlement Intéri
 ## Membres fondateurs, dispositions transitoires ##
 
 Les six membres fondateurs sont chargés de désigner les dirigeants de l’Association pour le premier exercice, jusqu’à la tenue de la première Assemblée Générale.
-Fait à Paris le 5 juin 2017, établi en sept exemplaires originaux par les membres fondateurs.
+Fait à Paris le 12 octobre 2017, établi en sept exemplaires originaux par les membres fondateurs.
