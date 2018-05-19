@@ -53,7 +53,7 @@ Les cotisations sont réglées :
 - ou en espèces ou par chèque, contre remise d’un justificatif du Trésorier de l’Association,
 - ou par carte bancaire, si l’Association a mis en place un tel mode de règlement.
 
-Le Bureau peut proposer une réduction ou une exemption de cotisation pour des membres dont les faibles moyens financiers présenteraient un obstacle à l’adhésion, sur présentation d’un justificatif. Pour bénéficier de ces conditions préférentielles, l’adhérent doit en faire la demande en présentant les justificatifs nécessaires auprès du Bureau, qui a toute latitude pour statuer.  
+Le Bureau peut proposer une réduction ou une exemption de cotisation pour des membres dont les faibles moyens financiers présenteraient un obstacle à l’adhésion. Pour bénéficier de ces conditions préférentielles, l’adhérent doit en faire la demande en présentant les justificatifs nécessaires auprès du Bureau, qui a toute latitude pour statuer.  
 Sauf quand les conditions donnant droit au tarif préférentiel sont par nature définitives, l’adhérent doit présenter un justificatif régulièrement pour pouvoir continuer à bénéficier de ces conditions préférentielles.
 
 La participation aux activités de l’Association est possible pour des personnes qui ne sont pas membres, sur décision du Bureau.
