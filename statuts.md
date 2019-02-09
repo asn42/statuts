@@ -45,6 +45,7 @@ Toute demande d’agrément d’un nouveau membre doit être adressée par écri
 Le Bureau statue sur la demande d’adhésion et décide d’agréer ou non le postulant.  
 Le refus d’admission n’a pas à être motivé.  
 L’accession et le maintien de la qualité de membre sont soumis au paiement d’une cotisation annuelle dont le montant est fixé annuellement par le Bureau et au respect des Statuts et du Règlement Intérieur de l’Association, s’il existe.
+L'adhésion est valable jusqu'au 31 janvier suivant le paiement de la cotisation, ou une année supplémentaire si celui-ci a lieu en novembre ou décembre.
 
 Les cotisations sont réglées :
 
