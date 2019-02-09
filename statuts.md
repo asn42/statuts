@@ -250,4 +250,4 @@ Les Statuts sont disponibles sur simple demande, ainsi que le Règlement Intéri
 Les cinq membres fondateurs sont chargés de désigner les dirigeants de l’Association pour le premier exercice, jusqu’à la tenue de la première Assemblée Générale.
 
 Fait à Paris le 12 octobre 2017 par les membres fondateurs.
-Modifié pour la dernière fois le 3 novembre 2018.
+Modifié pour la dernière fois le 26 janvier 2019.
