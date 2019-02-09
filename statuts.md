@@ -116,6 +116,8 @@ Outre le cas de démission et de révocation, les fonctions des membres du Burea
 
 En cas de poste vacant, le Bureau peut remplacer un de ses membres immédiatement par cooptation. Cette désignation est entérinée par un vote à l’Assemblée Générale suivante.
 
+Les membres du Bureau peuvent échanger leur postes sur décision du Bureau.
+
 ## Pouvoirs du Président et du Bureau ##
 
 Le Président représente l’Association dans tous les actes de la vie civile et est investi de tout pouvoir à cet effet. Il a notamment qualité pour ester en justice au nom de l’Association.  
